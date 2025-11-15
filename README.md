@@ -1,5 +1,6 @@
-
+```
 EX NO 1: Cloud-account-set-up-and-services
+```
 Name : NANDHANA R
 Reg no: 212223040124
 Aim:
